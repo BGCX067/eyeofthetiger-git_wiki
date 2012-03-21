@@ -1,0 +1,8 @@
+#Petit introduction sur l'utilisation de EyeOfTheTiger.
+
+= Introduction =
+
+# Créez un nouveau projet (choisissez un nom et un répertoire de sauvegarde)
+# Créez des participants ou importez-les depuis un fichier CSV
+# Créez une ou plusieurs courses, affectez leurs des particpant
+# Attendez l'arrivée des coureurs !
