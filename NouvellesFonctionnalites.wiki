@@ -4,9 +4,15 @@
 
 == Nouveau processus d'import == 
 
+Le processus d'imort de participant c'est améliorer. Il est dorénavant inutile de préformater le fichier tableur/CSV.
+La fenètre d'import vous demandera de préciser quelle colonne correspond au _nom_, _prénom_, _groupe_ ou champs _renseignement_.
+
 http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_1.png
 
+
 == Menu contextuel sur la liste des particpants ==
+
+Depuis la liste des participants d'un projet, un menu contextuel propose de supprimer ou d'imprimer les dossard des participants sélectionnés.
 
 http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_2.png
 
@@ -15,10 +21,14 @@ http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_2.png
 
 http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_3.png
 
+
 == Tris alphabétique, par groupe ou numéro lors de l'exportr de dossards ==
 
 http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_4.png
 
+
 == Messages d'erreur ==
+
+Un message d'erreur préviens lors de la création d'un projet ou d'une course d'un nom mal formé (utilisation de caractères interdits).
 
 http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_5.png
