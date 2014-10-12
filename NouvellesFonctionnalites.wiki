@@ -2,4 +2,23 @@
 
 = Version 20141012 =
 
-Nouveau processus d'import
+== Nouveau processus d'import == 
+
+http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_1.png
+
+== Menu contextuel sur la liste des particpants ==
+
+http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_2.png
+
+
+== Définition d'un "fond" de dossards ==
+
+http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_3.png
+
+== Tris alphabétique, par groupe ou numéro lors de l'exportr de dossards ==
+
+http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_4.png
+
+== Messages d'erreur ==
+
+http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_5.png
