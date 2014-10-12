@@ -19,10 +19,15 @@ http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_2.png
 
 == Définition d'un "fond" de dossards ==
 
+La fenètre d'option des dossards permet dorénavant de définir un "fond" pour les dossards.
+Ce fond doit etres un fichier PDF au format A4/paysage. Il sera ajouté "en fond" de tous les dossards générés.
+
 http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_3.png
 
 
 == Tris alphabétique, par groupe ou numéro lors de l'exportr de dossards ==
+
+La fenètre d'export des dossards  propose dorénavant de trier la liste des participants par numéro, groupe, ou alphabétique sur le nom et prénom.  
 
 http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_4.png
 
