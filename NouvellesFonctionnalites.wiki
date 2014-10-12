@@ -1,0 +1,5 @@
+#summary Présente les principales nouvelles fonctionnalités de chaque versions
+
+= Version 20141012 =
+
+Nouveau processus d'import
