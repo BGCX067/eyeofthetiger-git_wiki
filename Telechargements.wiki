@@ -1,11 +1,15 @@
 #summary Retrouvez ici toutes les version àtélécharger de eyeofthetiger
 
-Toutes les versions  sont disponnibles [https://drive.google.com/folderview?id=0B0joS54noRAMZFhfUUdSWUM2Tk0&usp=sharing#list ici].
 
-= Version 20141012 =
+= Dernière version: 20141012 =
 
 || Installateur pour Windows || [https://docs.google.com/uc?export=download&id=0B0joS54noRAMYkU0dDZ3SlZvNDA EyeOfTheTiger_20141012-setup.exe] ||
 || Archive pour Windows || [https://drive.google.com/uc?id=0B0joS54noRAMUkkzc2xUY3I4Mnc&export=download EyeOfTheTiger_20141012.zip] ||
+
+
+<hr>
+
+Toutes les versions  sont disponibles *[https://drive.google.com/folderview?id=0B0joS54noRAMZFhfUUdSWUM2Tk0&usp=sharing#list ici]*.
 
 
 <hr>
