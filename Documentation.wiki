@@ -2,6 +2,6 @@
 
 
   # Créez un nouveau projet (choisissez un nom et un répertoire de sauvegarde)
-  # Créez des participants ou importez-les depuis un fichier CSV
-  # Créez une ou plusieurs courses, affectez leurs des particpant
+  # Créez des participants ou importez-les depuis un fichier CSV ou Xls
+  # Créez une ou plusieurs courses, affectez leurs des participants
   # Attendez l'arrivée des coureurs !
