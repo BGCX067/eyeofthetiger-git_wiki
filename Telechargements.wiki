@@ -3,8 +3,12 @@
 
 = Version 20141012 =
 
-||
-Installateur pour Windows
-||
-[https://drive.google.com/file/d/0B0joS54noRAMYkU0dDZ3SlZvNDA/view?usp=sharing EyeOfTheTiger_20141012-setup.exe]
-||
+|| Installateur pour Windows || [https://docs.google.com/uc?export=download&id=0B0joS54noRAMYkU0dDZ3SlZvNDA EyeOfTheTiger_20141012-setup.exe] ||
+|| Archive pour Windows || [https://docs.google.com/uc?export=download&id=0B0joS54noRAMYkU0dDZ3SlZvNDA EyeOfTheTiger_20141012-setup.exe] ||
+|| Simple Jar avec dépendances || [https://docs.google.com/uc?export=download&id=0B0joS54noRAMYkU0dDZ3SlZvNDA EyeOfTheTiger_20141012-setup.exe] ||
+
+= Version 20131106 =
+
+|| Installateur pour Windows || [https://drive.google.com/file/d/0B0joS54noRAMTWhNNEVtbEwwRTg/view?usp=sharing EyeOfTheTiger_20131106-setup.exe] ||
+
+
