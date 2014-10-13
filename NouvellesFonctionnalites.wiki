@@ -37,3 +37,10 @@ http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_4.png
 Un message d'erreur préviens lors de la création d'un projet ou d'une course d'un nom mal formé (utilisation de caractères interdits).
 
 http://wiki.eyeofthetiger.googlecode.com/git/images/eott_20141012_5.png
+
+
+= Version 20131106 = 
+ * Export au format XLS des courses
+ * Possiblité d'ajouter des logos aux dossards
+ * Correction de l'export PDF des dossards (quand les champs étaient trop long)
+ * Import XLS des participants
