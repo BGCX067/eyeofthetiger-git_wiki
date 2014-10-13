@@ -6,6 +6,5 @@
 ||
 Installateur pour Windows
 ||
-[http://wiki.eyeofthetiger.googlecode.com/git/downloads/EyeOfTheTiger_20141012-setup.exe EyeOfTheTiger_20141012-setup.exe]
+[https://drive.google.com/file/d/0B0joS54noRAMYkU0dDZ3SlZvNDA/view?usp=sharing EyeOfTheTiger_20141012-setup.exe]
 ||
-
