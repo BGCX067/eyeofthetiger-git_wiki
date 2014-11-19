@@ -4,15 +4,18 @@
 
 == Nouveau menu regroupant toutes les fonctionnalités des courses ==
 Un menu global permet maintenant de manipuler toutes les courses: Création d'une nouvelle course, ajout de participant, suppression de la course, export XLS des résultats de la course.
+
 http://wiki.eyeofthetiger.googlecode.com/git/images/eot_20141116_3.jpg
 
 == Aide contextuelle pour les champs des options des dossards ==
 Des "ballons" d'aides apparaisse lors du survol des champs des options des dossards.
 Cette aide contextuelle permet d'expliquer plus précisément le comportement de chaque options.
+
 http://wiki.eyeofthetiger.googlecode.com/git/images/eot_20141116_2.jpg
 
 == Tris sur les Groupes ou sur les Renseignements ==
 Il est dorénavant possible de trier sur le _Groupes_ ou sur le _Renseignements_ de chaque participant.
+
 http://wiki.eyeofthetiger.googlecode.com/git/images/eot_20141116_1.jpg
 
 == Améliorations diverses: ==
