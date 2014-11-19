@@ -1,5 +1,17 @@
 #summary Présente les principales nouvelles fonctionnalités de chaque versions
 
+= Version 20141116 =
+
+== Nouveau menu regroupant toutes les fonctionnalités des courses ==
+== Aide contextuelle pour les champs des options des dossards ==
+== Tris sur les Groupes ou sur les Renseignements ==
+== Améliorations diverses:
+  * Tous les sélecteurs de fichier se positionnent par défaut sur le répertoire "Mes Documents" de l'utilisateur.
+  * Les sélecteurs de fichier ont dorénavant un filtre par défaut (*.pdf, *.xls ...).
+  * Corrige un problème de tris lors de l'export des dossards.
+  * Ouverture des fenêtres d'options de façon plus ergonomique (centrés par rapport à la fenêtre parente).
+
+
 = Version 20141012 =
 
 == Nouveau processus d'import == 
