@@ -20,7 +20,7 @@ http://wiki.eyeofthetiger.googlecode.com/git/images/eot_20141116_1.jpg
 
 == Améliorations diverses: ==
   * Tous les sélecteurs de fichier se positionnent par défaut sur le répertoire "Mes Documents" de l'utilisateur.
-  * Les sélecteurs de fichier ont dorénavant un filtre par défaut (*.pdf, *.xls ...).
+  * Les sélecteurs de fichier ont dorénavant un filtre par défaut ( `*`.pdf, `*`.xls ...).
   * Corrige un problème de tris lors de l'export des dossards.
   * Ouverture des fenêtres d'options de façon plus ergonomique (centrés par rapport à la fenêtre parente).
 
