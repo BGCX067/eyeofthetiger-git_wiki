@@ -3,9 +3,9 @@
 
 = Dernière version: 20141116 =
 
-|| Installateur || [https://drive.google.com/file/d/0B0joS54noRAMdF9DcDBfTmFZcXc/view?usp=sharing] || Windows ||
-|| Archive pour Windows || [https://drive.google.com/file/d/0B0joS54noRAMMGFUcjRuMHQyRnc/view?usp=sharing] || Windows ||
-|| Archive JAR || [https://drive.google.com/file/d/0B0joS54noRAMN1RrakFTZmhBd1U/view?usp=sharing] || Toutes plateforme (nécessite Java) ||
+|| Installateur || [https://drive.google.com/file/d/0B0joS54noRAMdF9DcDBfTmFZcXc/view?usp=sharing EyeOfTheTiger_20141116-setup.exe] || Windows ||
+|| Archive pour Windows || [https://drive.google.com/file/d/0B0joS54noRAMMGFUcjRuMHQyRnc/view?usp=sharing EyeOfTheTiger_20141116-native.zip] || Windows ||
+|| Archive JAR || [https://drive.google.com/file/d/0B0joS54noRAMN1RrakFTZmhBd1U/view?usp=sharing EyeOfTheTiger_20141116.zip] || Toutes plateforme (nécessite Java) ||
 
 
 <hr>
