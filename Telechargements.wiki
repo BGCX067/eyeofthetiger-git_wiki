@@ -1,11 +1,11 @@
 #summary Retrouvez ici toutes les version téléchargeables de eyeofthetiger
 
 
-= Dernière version: 20141012 =
+= Dernière version: 20141116 =
 
-|| Installateur || [https://docs.google.com/uc?export=download&id=0B0joS54noRAMYkU0dDZ3SlZvNDA EyeOfTheTiger_20141012-setup.exe] || Windows ||
-|| Archive pour Windows || [https://drive.google.com/uc?id=0B0joS54noRAMUkkzc2xUY3I4Mnc&export=download EyeOfTheTiger_20141012.zip] || Windows ||
-|| Archive JAR || [https://drive.google.com/uc?id=0B0joS54noRAMS0xkNmtQMlhmNkk&export=download EyeOfTheTiger_20141012_jar.zip] || Toutes plateforme (nécessite Java) ||
+|| Installateur || [https://drive.google.com/file/d/0B0joS54noRAMdF9DcDBfTmFZcXc/view?usp=sharing] || Windows ||
+|| Archive pour Windows || [https://drive.google.com/file/d/0B0joS54noRAMMGFUcjRuMHQyRnc/view?usp=sharing] || Windows ||
+|| Archive JAR || [https://drive.google.com/file/d/0B0joS54noRAMN1RrakFTZmhBd1U/view?usp=sharing] || Toutes plateforme (nécessite Java) ||
 
 
 <hr>
@@ -16,6 +16,16 @@ Toutes les versions  sont disponibles *[https://drive.google.com/folderview?id=0
 <hr>
 
 = Anciennes versions: ==
+
+= Version: 20141012 =
+
+|| Installateur || [https://docs.google.com/uc?export=download&id=0B0joS54noRAMYkU0dDZ3SlZvNDA EyeOfTheTiger_20141012-setup.exe] || Windows ||
+|| Archive pour Windows || [https://drive.google.com/uc?id=0B0joS54noRAMUkkzc2xUY3I4Mnc&export=download EyeOfTheTiger_20141012.zip] || Windows ||
+|| Archive JAR || [https://drive.google.com/uc?id=0B0joS54noRAMS0xkNmtQMlhmNkk&export=download EyeOfTheTiger_20141012_jar.zip] || Toutes plateforme (nécessite Java) ||
+
+
+<hr>
+
 
 == Version 20131106 ==
 
